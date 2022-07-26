@@ -1,4 +1,4 @@
-package com.kiosk.catburger;
+package com.kiosk.burgercat;
 
 import java.util.Scanner;
 
